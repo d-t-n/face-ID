@@ -1,4 +1,4 @@
-# face-ID
+# Face-ID
 
 Face identification using webcam based on PyTorch and using OpenCV in jupyter notebook.
 
